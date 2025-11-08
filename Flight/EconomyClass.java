@@ -1,0 +1,3 @@
+class EconomyClass extends Flight{
+    
+}
